@@ -1,0 +1,7 @@
+Grey1 hex: #808080
+Grey2 hex: #4F4F4F
+
+Brush width: 8
+
+Width: 48px
+Height: 48px

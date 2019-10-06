@@ -1,0 +1,7 @@
+Purple hex: #5623FF
+Gret hex: #333333
+
+Brush width: 2
+
+Width: 48
+Height: 48
